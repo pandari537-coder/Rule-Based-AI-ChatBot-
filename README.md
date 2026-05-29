@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rule-Based AI ChatBot
 
 A simple AI chatbot built using Python.
@@ -13,3 +14,7 @@ A simple AI chatbot built using Python.
 
 ## Author
 Pandari Yadav ...
+=======
+# Rule-Based-AI-ChatBot-
+A Rule Based AI ChatBot Built Using Python
+>>>>>>> ae02f8d34d470f1bba62ed7cc02f978b19f250da
